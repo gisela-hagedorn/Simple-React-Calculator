@@ -1,0 +1,37 @@
+button {
+    border: none;
+    background-color: #3D52D5;
+    /* background-color: #3d51d5ad; */
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+}
+  
+button:hover {
+    background-color: #090C9B;
+    /* background-color: #3D52D5; */
+}
+
+.math {
+   background-color: #FFC857;
+   /* background-color: #ffc757b7;  */
+}
+
+.math:hover {
+    background-color: #f6a607;
+    /* background-color: #FFC857; */
+}
+  
+.equals {
+    grid-column: 3 / 5;
+    background-color: #d65e45;
+    /* background-color: #d66953b3; */
+}
+  
+.equals:hover {
+    background-color: #c2391d;
+    /* background-color: #d65e45; */
+}
